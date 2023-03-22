@@ -1,4 +1,4 @@
-!pip install -r https://github.com/AparnaPrasannan/predict_page/blob/main/requirement.txt
+pip install -r https://github.com/AparnaPrasannan/predict_page/blob/main/requirement.txt
 
 import streamlit as st
 import pickle
